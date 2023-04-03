@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">An enthusiastic and excitable web developer from Brighton, England</h3>
 
-- 🔭 I’m currently working on [Bookbatch](https://github.com/Joelzor/bookbatch)
+- 🔭 I’m currently working on [Bookbatch](https://github.com/Joelzor/bookbatch), my final project in the Boolean bootcamp
 
 - 🌱 I’m currently learning **the MERN stack, SASS and TypeScript**
 
