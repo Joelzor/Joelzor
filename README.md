@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bookbatch](https://github.com/Joelzor/bookbatch), my final project in the Boolean bootcamp
 
-- 🌱 I’m currently learning **the MERN stack, SASS and TypeScript**
+- 🌱 I’m currently learning **TypeScript, Sass**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-new-six-eta.vercel.app/](https://portfolio-new-six-eta.vercel.app/)
 
